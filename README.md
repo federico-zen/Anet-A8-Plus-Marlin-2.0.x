@@ -9,6 +9,7 @@ Features for now: <br>
 ◽ Custom Boot Screen ❌ <br>
 ◽ Custom Name ❌ <br> 
 ◽ Linear Advance ❌ <br>
-#Any Help or Changes are Welcome 🔥💪 <br>
+<br>
+Any Help or Changes are Welcome 🔥💪 <br>
 <hr>
 Official Marlin Website: https://marlinfw.org/
