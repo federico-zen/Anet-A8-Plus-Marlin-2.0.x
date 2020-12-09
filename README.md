@@ -10,6 +10,6 @@ Features for now: <br>
 ◽ Custom Name ❌ 
 <br>
 <br>
-Any Help or Changes are Welcome :) <br>
+Any Help or Changes are Welcome 🔥💪 <br>
 <hr>
 Official Marlin Website: https://marlinfw.org/
