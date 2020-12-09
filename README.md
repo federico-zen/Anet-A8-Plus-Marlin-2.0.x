@@ -11,7 +11,7 @@ My version of Marlin Firmware for Anet A8 Plus 3D Printer
 ◽ Linear Advance ❌ <br>
 </p>
 
-## Any Help or Changes are Welcome🔥💪
+## 💪Any Help or Changes are Welcome
 <p>
   If you want to help you need to: fork it , create your branch , push your branch and request to pull it !
 </p>
