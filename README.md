@@ -6,7 +6,7 @@
 ## 📌Features for now:
 <p> 
 ◽ Mesh Bed Leveling ✔️ <br>
-◽ Auto Bed Leveling ❌  <-- maybe need Motherboard upgrade ! <br>
+◽ Auto Bed Leveling ❌ ⬅️ maybe need Motherboard upgrade ! <br>
 ◽ Custom Boot Screen ❌ <br>
 ◽ Custom Name ❌ <br> 
 ◽ Linear Advance ❌ <br>
