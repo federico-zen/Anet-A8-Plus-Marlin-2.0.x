@@ -7,7 +7,9 @@ Features for now: <br>
 ◽ Mesh Bed Leveling ✔️ <br>
 ◽ Auto Bed Leveling ❌ <br>
 ◽ Custom Boot Screen ❌ <br>
-◽ Custom Name ❌ <br>
+◽ Custom Name ❌ 
+<br>
+<br>
 Any Help or Changes are Welcome :) <br>
 <hr>
 Official Marlin Website: https://marlinfw.org/
