@@ -27,6 +27,7 @@
 ◽ Replace the Marlin folder <br>
 ◽ Modify it <br>
 ◽ And then follow the guide on the origina wiki to flash it! <br>
+◽ Maybe to build it you need to use melzi_optimize to make it fit in the flash memory!  
 </p>
 
 ## 🌍Marlin Website
